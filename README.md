@@ -309,6 +309,8 @@ The Power BI dashboard provides valuable insights into investment behavior by an
 # Conclusion
 
 This dashboard transforms raw survey data into meaningful business insights using Power BI. It helps users understand investor behavior, identify popular investment avenues, analyze financial objectives, and support data-driven decision-making through clear and interactive visualizations.
+
+
 GitHub: (https://github.com/RajatVishwakarma712)
 
 LinkedIn: (www.linkedin.com/in/rajat-dataanalyst0301)
